@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReduxTodo</string>
+    <string name="server_client_id">905759688281-hr2b80l1tnqgl4tib3bpql929quvk57f.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">977781910297331</string>
+    <string name="fb_login_protocol_scheme">fb977781910297331</string>
+    <string name="facebook_client_token">d502716ffb4bd9fe02631c7b36a970db</string>
+</resources>

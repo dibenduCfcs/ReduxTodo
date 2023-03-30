@@ -1,0 +1,16 @@
+export default {
+  darkBlue: 'rgba(0, 60, 146, 1)',
+  black: 'rgba(0, 0, 0, 1)',
+  black60per: 'rgba(0, 0, 0, 0.6)',
+  black10per: 'rgba(0, 0, 0, 0.1)',
+  black40per: 'rgba(0, 0, 0, 0.4)',
+  white: 'rgba(255, 255, 255, 1)',
+  buttonBorderColor: 'rgba(238, 242, 248, 1)',
+  black6per: 'rgba(0, 0, 0, 0.06)',
+  black50per: 'rgba(0,0,0,0.5)',
+  modalBorderColor: 'rgba(239, 239, 239, 1)',
+  black4Per: 'rgba(0, 0, 0, 0.04)',
+  black32per: 'rgba(0, 0, 0, 0.32)',
+  black80per: 'rgba(0, 0, 0, 0.8)',
+  darkBlue5per: 'rgba(184, 202, 224, 1) ',
+};
